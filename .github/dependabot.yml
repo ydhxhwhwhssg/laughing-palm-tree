@@ -6,10 +6,10 @@
 version: 2
 updates:
   - package-ecosystem: "gradle"
-    directory: "/"
+    directory: "/1"
     schedule:
       interval: "yearly"
   - package-ecosystem: "gradle"
-    directory: "/.././"
+    directory: "/2"
     schedule:
       interval: "yearly"
